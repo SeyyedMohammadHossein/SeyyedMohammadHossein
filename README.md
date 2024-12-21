@@ -53,6 +53,8 @@ Welcome to my GitHub profile! I'm a passionate developer with over 8 years of ex
 Here are some of my notable projects:
 
 - [MineSweeper](https://github.com/SeyyedMohammadHossein/MineSweeper) - A classic Minesweeper game built in Java with the ability to manage the game board and place bombs.
+- [BookLibraryManagement](https://github.com/SeyyedMohammadHossein/BookLibraryManagement) - A Java-based library management system designed to manage books, users, and transactions efficiently. This project includes features such as book addition/removal, user registration, and transaction tracking, with a focus on an intuitive user interface and seamless operation.
+
 
 ## Connect with Me
 
